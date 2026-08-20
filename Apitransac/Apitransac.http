@@ -1,0 +1,6 @@
+@Apitransac_HostAddress = http://localhost:5071
+
+GET {{Apitransac_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
