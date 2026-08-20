@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apitransac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17da1d08160863d585c9e4dac1fab8d1c2f73f03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1b65533b41f93ca925af6b1b035f3eaddfbb4c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apitransac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apitransac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
